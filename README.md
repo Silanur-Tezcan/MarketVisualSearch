@@ -22,5 +22,4 @@ Standart görsel arama motorları sadece renklere odaklandığı için beyaz bir
 * **Frontend:** HTML5, CSS3, Bootstrap 5
 
 
-```
 
